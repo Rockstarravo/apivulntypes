@@ -1,0 +1,3 @@
+Tampering the params with XX string which intents to bring the info from server level
+
+we can get sample xss payload form github and try hitting the apis
