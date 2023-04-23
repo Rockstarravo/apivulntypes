@@ -1,0 +1,12 @@
+This Insecure direct object reference meants to gain access another user with existing tokens.
+
+
+Token expiration check (as soon as new token generated the old one must expired) Authorization token not expiring
+
+
+
+Vertical privilege escalation (when i act as under admin employee and  i gain the access of my admin with my token.)
+
+Horizontal Privilege escalation (when i gain the access of my same level of employees by using my token/key)
+
+OS Command Injection
